@@ -1,3 +1,3 @@
-const simpleMsg = () => "This is a message from the simple-lens package";
+const simpleMsg = () => "This is a message from simple package";
 
 module.exports = { simpleMsg };

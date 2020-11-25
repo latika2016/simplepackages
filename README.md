@@ -1,3 +1,3 @@
-# Simple NPM package
+# Simple NPM packages
 
-Returns a simple text
+Repo for Simple NPM packages
